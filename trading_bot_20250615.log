@@ -1,0 +1,73 @@
+2025-06-15 12:45:10,611 - __main__ - ERROR - Failed to connect to Binance API: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-06-15 12:53:43,736 - __main__ - INFO - Successfully connected to Binance Futures Testnet
+2025-06-15 12:53:43,737 - __main__ - INFO - Account Balance: 15000.00000000 USDT
+2025-06-15 12:54:27,463 - __main__ - INFO - Current price for BTCUSDT: 105313.0
+2025-06-15 12:54:35,058 - __main__ - INFO - Placing MARKET BUY order: 0.001 BTCUSDT
+2025-06-15 12:54:35,232 - __main__ - INFO - Market order placed successfully!
+2025-06-15 12:54:35,233 - __main__ - INFO - Order ID: 4530823527
+2025-06-15 12:54:35,233 - __main__ - INFO - Status: NEW
+2025-06-15 12:57:11,702 - __main__ - INFO - Current price for BTCUSDT: 105256.2
+2025-06-15 12:57:16,651 - __main__ - INFO - Placing LIMIT SELL order: 0.001 BTCUSDT at 106269.0
+2025-06-15 12:57:16,804 - __main__ - INFO - Limit order placed successfully!
+2025-06-15 12:57:16,805 - __main__ - INFO - Order ID: 4530832154
+2025-06-15 12:57:16,805 - __main__ - INFO - Status: NEW
+2025-06-15 12:58:35,582 - __main__ - INFO - Account information retrieved successfully
+2025-06-15 13:01:42,124 - __main__ - INFO - Current price for BTCUSDT: 105200.0
+2025-06-15 13:01:48,256 - __main__ - INFO - Placing STOP_LIMIT BUY order: 0.001 BTCUSDT
+2025-06-15 13:01:48,257 - __main__ - INFO - Stop Price: 104000.0, Limit Price: 104100.0
+2025-06-15 13:01:48,258 - __main__ - ERROR - Unexpected error placing stop-limit order: type object 'Client' has no attribute 'ORDER_TYPE_STOP'
+2025-06-15 13:11:13,800 - __main__ - INFO - Successfully connected to Binance Futures Testnet
+2025-06-15 13:11:13,801 - __main__ - INFO - Account Balance: 14999.95786560 USDT
+2025-06-15 13:12:00,654 - __main__ - INFO - Current price for BTCUSDT: 105316.5
+2025-06-15 13:12:16,383 - __main__ - INFO - Placing MARKET BUY order: 0.001 BTCUSDT
+2025-06-15 13:12:16,546 - __main__ - INFO - Market order placed successfully!
+2025-06-15 13:12:16,547 - __main__ - INFO - Order ID: 4530890577
+2025-06-15 13:12:16,547 - __main__ - INFO - Status: NEW
+2025-06-15 13:16:09,625 - __main__ - INFO - Current price for BTCUSDT: 105346.5
+2025-06-15 13:16:17,571 - __main__ - INFO - Placing LIMIT SELL order: 0.001 BTCUSDT at 106316.5
+2025-06-15 13:16:17,732 - __main__ - INFO - Limit order placed successfully!
+2025-06-15 13:16:17,732 - __main__ - INFO - Order ID: 4530905217
+2025-06-15 13:16:17,732 - __main__ - INFO - Status: NEW
+2025-06-15 13:17:03,046 - __main__ - INFO - Account information retrieved successfully
+2025-06-15 13:18:06,357 - __main__ - INFO - 📋 Found 2 open orders
+2025-06-15 13:20:28,338 - __main__ - INFO - Current price for BTCUSDT: 105355.7
+2025-06-15 13:20:35,318 - __main__ - INFO - Placing STOP_LIMIT BUY order: 0.001 BTCUSDT
+2025-06-15 13:20:35,319 - __main__ - INFO - Stop Price: 104846.5, Limit Price: 104946.5
+2025-06-15 13:20:35,320 - __main__ - ERROR - Unexpected error placing stop-limit order: type object 'Client' has no attribute 'ORDER_TYPE_STOP'
+2025-06-15 13:24:43,238 - __main__ - INFO - Successfully connected to Binance Futures Testnet
+2025-06-15 13:24:43,239 - __main__ - INFO - Account Balance: 14999.91573700 USDT
+2025-06-15 13:24:47,551 - __main__ - INFO - 📋 Found 2 open orders
+2025-06-15 13:26:11,362 - __main__ - INFO - Current price for BTCUSDT: 105405.8
+2025-06-15 13:26:15,961 - __main__ - INFO - Placing STOP_LIMIT BUY order: 0.001 BTCUSDT
+2025-06-15 13:26:15,961 - __main__ - INFO - Stop Price: 104855.7, Limit Price: 104955.7
+2025-06-15 13:26:16,122 - __main__ - ERROR - API Error: APIError(code=-1106): Parameter 'price' sent when not required.
+2025-06-15 13:27:52,565 - __main__ - INFO - Successfully connected to Binance Futures Testnet
+2025-06-15 13:27:52,566 - __main__ - INFO - Account Balance: 14999.91573700 USDT
+2025-06-15 13:27:58,982 - __main__ - INFO - 📋 Found 2 open orders
+2025-06-15 13:30:03,685 - __main__ - INFO - Current price for BTCUSDT: 105400.0
+2025-06-15 13:30:06,546 - __main__ - INFO - Placing STOP_LIMIT BUY order: 0.001 BTCUSDT
+2025-06-15 13:30:06,546 - __main__ - INFO - Stop Price: 104905.8, Limit Price: 105005.8
+2025-06-15 13:30:06,704 - __main__ - ERROR - API Error: APIError(code=-1106): Parameter 'price' sent when not required.
+2025-06-15 13:34:00,851 - __main__ - INFO - Successfully connected to Binance Futures Testnet
+2025-06-15 13:34:00,852 - __main__ - INFO - Account Balance: 14999.89520926 USDT
+2025-06-15 13:34:49,418 - __main__ - INFO - Current price for BTCUSDT: 105343.5
+2025-06-15 13:34:52,257 - __main__ - INFO - Placing STOP_LIMIT BUY order: 0.001 BTCUSDT
+2025-06-15 13:34:52,258 - __main__ - INFO - Stop Price: 104900.0, Limit Price: 105000.0
+2025-06-15 13:34:52,407 - __main__ - ERROR - API Error: APIError(code=-2021): Order would immediately trigger.
+2025-06-15 15:47:06,266 - __main__ - INFO - Successfully connected to Binance Futures Testnet
+2025-06-15 15:47:06,267 - __main__ - INFO - Account Balance: 14999.89520926 USDT
+2025-06-15 15:47:10,731 - __main__ - INFO - 📋 Found 2 open orders
+2025-06-15 15:48:05,879 - __main__ - INFO - Current price for BTCUSDT: 105070.0
+2025-06-15 15:48:11,025 - __main__ - INFO - Placing STOP_LIMIT BUY order: 0.001 BTCUSDT
+2025-06-15 15:48:11,026 - __main__ - INFO - Stop Price: 106000.0, Limit Price: 106100.0
+2025-06-15 15:48:11,026 - __main__ - ERROR - Unexpected error placing stop-limit order: type object 'Client' has no attribute 'FUTURE_ORDER_TYPE_STOP_LOSS_LIMIT'
+2025-06-15 15:52:10,014 - __main__ - INFO - Successfully connected to Binance Futures Testnet
+2025-06-15 15:52:10,015 - __main__ - INFO - Account Balance: 14999.89520926 USDT
+2025-06-15 15:52:11,985 - __main__ - INFO - 📋 Found 2 open orders
+2025-06-15 15:52:55,006 - __main__ - INFO - Current price for BTCUSDT: 105024.3
+2025-06-15 15:52:57,806 - __main__ - INFO - Placing STOP_LIMIT BUY order: 0.001 BTCUSDT
+2025-06-15 15:52:57,806 - __main__ - INFO - Stop Price: 106000.0, Limit Price: 106100.0
+2025-06-15 15:52:57,969 - __main__ - INFO - Stop-limit order placed successfully!
+2025-06-15 15:52:57,969 - __main__ - INFO - Order ID: 4531481478
+2025-06-15 15:52:57,969 - __main__ - INFO - Status: NEW
+2025-06-15 15:54:35,067 - __main__ - INFO - 📋 Found 3 open orders
